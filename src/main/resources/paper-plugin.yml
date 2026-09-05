@@ -1,0 +1,15 @@
+name: "RavenVoidGenerator"
+version: "1.0"
+main: "ir.ariwuh.plugin.ravenvoidgenerator.RavenVoidGeneratorPlugin"
+description: "A super lightweight and powerful PaperMC void generator plugin."
+api-version: "26.2"
+author: "Aria Zaahedi"
+website: "https://github.com/AriaZaahedi/"
+load: "STARTUP"
+
+dependencies:
+  server:
+    Multiverse-Core:
+      load: "AFTER"
+      required: false
+      join-classpath: false
