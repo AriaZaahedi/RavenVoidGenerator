@@ -1,5 +1,5 @@
 name: "RavenVoidGenerator"
-version: "1.0"
+version: "1.0.1"
 main: "ir.ariwuh.plugin.ravenvoidgenerator.RavenVoidGeneratorPlugin"
 description: "A super lightweight and powerful PaperMC void generator plugin."
 api-version: "26.2"
