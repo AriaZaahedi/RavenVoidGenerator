@@ -6,7 +6,7 @@ group = "ir.ariwuh.plugin.ravenvoidgenerator"
 version = "1.0"
 
 java {
-    toolchain.languageVersion.set(JavaLanguageVersion.of(26))
+    toolchain.languageVersion.set(JavaLanguageVersion.of(25))
 }
 
 repositories {
